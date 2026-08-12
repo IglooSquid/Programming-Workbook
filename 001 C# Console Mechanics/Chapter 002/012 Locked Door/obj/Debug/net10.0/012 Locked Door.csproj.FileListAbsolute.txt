@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\bin\Debug\net10.0\012 Locked Door.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\bin\Debug\net10.0\012 Locked Door.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\bin\Debug\net10.0\012 Locked Door.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\bin\Debug\net10.0\012 Locked Door.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\bin\Debug\net10.0\012 Locked Door.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\refint\012 Locked Door.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\012 Locked Door.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\012 Locked Door\obj\Debug\net10.0\ref\012 Locked Door.dll

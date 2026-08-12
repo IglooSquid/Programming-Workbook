@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\bin\Debug\net10.0\013 Treasure Chest.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\bin\Debug\net10.0\013 Treasure Chest.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\bin\Debug\net10.0\013 Treasure Chest.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\bin\Debug\net10.0\013 Treasure Chest.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\bin\Debug\net10.0\013 Treasure Chest.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\refint\013 Treasure Chest.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\013 Treasure Chest.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\013 Treasure Chest\obj\Debug\net10.0\ref\013 Treasure Chest.dll

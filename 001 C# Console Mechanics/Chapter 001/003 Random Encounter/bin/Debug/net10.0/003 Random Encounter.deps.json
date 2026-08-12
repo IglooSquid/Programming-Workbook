@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "003 Random Encounter/1.0.0": {
+        "runtime": {
+          "003 Random Encounter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "003 Random Encounter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

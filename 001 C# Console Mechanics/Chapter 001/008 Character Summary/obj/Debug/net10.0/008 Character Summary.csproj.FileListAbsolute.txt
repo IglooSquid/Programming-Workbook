@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\bin\Debug\net10.0\008 Character Summary.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\bin\Debug\net10.0\008 Character Summary.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\bin\Debug\net10.0\008 Character Summary.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\bin\Debug\net10.0\008 Character Summary.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\bin\Debug\net10.0\008 Character Summary.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\refint\008 Character Summary.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\008 Character Summary.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\008 Character Summary\obj\Debug\net10.0\ref\008 Character Summary.dll

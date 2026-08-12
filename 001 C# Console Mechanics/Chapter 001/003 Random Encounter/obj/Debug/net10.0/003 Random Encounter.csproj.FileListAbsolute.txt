@@ -1,0 +1,28 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\refint\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\003 Random Encounter\obj\Debug\net10.0\ref\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\bin\Debug\net10.0\003 Random Encounter.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\refint\003 Random Encounter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\003 Random Encounter.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\003 Random Encounter\obj\Debug\net10.0\ref\003 Random Encounter.dll

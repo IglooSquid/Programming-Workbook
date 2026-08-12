@@ -1,0 +1,56 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\refint\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Character Sheet\obj\Debug\net10.0\ref\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\refint\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\Volume 001 Programming basics\001 Character Sheet\obj\Debug\net10.0\ref\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\refint\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 Programming basics\001 Character Sheet\obj\Debug\net10.0\ref\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\bin\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\refint\001 Character Sheet.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\001 Character Sheet.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\001 Character Sheet\obj\Debug\net10.0\ref\001 Character Sheet.dll

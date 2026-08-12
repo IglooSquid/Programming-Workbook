@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\bin\Debug\net10.0\006 Experience Counter.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\bin\Debug\net10.0\006 Experience Counter.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\bin\Debug\net10.0\006 Experience Counter.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\bin\Debug\net10.0\006 Experience Counter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\bin\Debug\net10.0\006 Experience Counter.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\refint\006 Experience Counter.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\006 Experience Counter.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\006 Experience Counter\obj\Debug\net10.0\ref\006 Experience Counter.dll

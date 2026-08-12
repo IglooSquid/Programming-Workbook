@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\bin\Debug\net10.0\011 Merchant.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\bin\Debug\net10.0\011 Merchant.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\bin\Debug\net10.0\011 Merchant.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\bin\Debug\net10.0\011 Merchant.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\bin\Debug\net10.0\011 Merchant.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\refint\011 Merchant.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\011 Merchant.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\011 Merchant\obj\Debug\net10.0\ref\011 Merchant.dll

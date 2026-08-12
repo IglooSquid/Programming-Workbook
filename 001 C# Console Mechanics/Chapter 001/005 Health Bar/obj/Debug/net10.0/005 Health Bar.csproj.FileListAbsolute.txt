@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\bin\Debug\net10.0\005 Health Bar.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\bin\Debug\net10.0\005 Health Bar.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\bin\Debug\net10.0\005 Health Bar.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\bin\Debug\net10.0\005 Health Bar.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\bin\Debug\net10.0\005 Health Bar.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\refint\005 Health Bar.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\005 Health Bar.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\005 Health Bar\obj\Debug\net10.0\ref\005 Health Bar.dll

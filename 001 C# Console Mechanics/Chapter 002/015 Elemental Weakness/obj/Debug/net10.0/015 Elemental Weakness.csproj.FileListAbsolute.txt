@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\bin\Debug\net10.0\015 Elemental Weakness.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\bin\Debug\net10.0\015 Elemental Weakness.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\bin\Debug\net10.0\015 Elemental Weakness.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\bin\Debug\net10.0\015 Elemental Weakness.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\bin\Debug\net10.0\015 Elemental Weakness.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\refint\015 Elemental Weakness.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\015 Elemental Weakness.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\015 Elemental Weakness\obj\Debug\net10.0\ref\015 Elemental Weakness.dll

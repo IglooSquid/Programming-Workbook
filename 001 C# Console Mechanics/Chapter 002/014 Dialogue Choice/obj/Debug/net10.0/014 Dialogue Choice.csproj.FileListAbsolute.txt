@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\bin\Debug\net10.0\014 Dialogue Choice.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\bin\Debug\net10.0\014 Dialogue Choice.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\bin\Debug\net10.0\014 Dialogue Choice.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\bin\Debug\net10.0\014 Dialogue Choice.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\bin\Debug\net10.0\014 Dialogue Choice.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\refint\014 Dialogue Choice.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\014 Dialogue Choice.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\014 Dialogue Choice\obj\Debug\net10.0\ref\014 Dialogue Choice.dll

@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\bin\Debug\net10.0\010 Healing Potion.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\bin\Debug\net10.0\010 Healing Potion.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\bin\Debug\net10.0\010 Healing Potion.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\bin\Debug\net10.0\010 Healing Potion.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\bin\Debug\net10.0\010 Healing Potion.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\refint\010 Healing Potion.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\010 Healing Potion.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\010 Healing Potion\obj\Debug\net10.0\ref\010 Healing Potion.dll

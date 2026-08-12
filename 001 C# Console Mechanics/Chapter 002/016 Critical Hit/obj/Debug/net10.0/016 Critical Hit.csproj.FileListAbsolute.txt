@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\bin\Debug\net10.0\016 Critical Hit.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\bin\Debug\net10.0\016 Critical Hit.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\bin\Debug\net10.0\016 Critical Hit.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\bin\Debug\net10.0\016 Critical Hit.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\bin\Debug\net10.0\016 Critical Hit.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\refint\016 Critical Hit.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\016 Critical Hit.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\016 Critical Hit\obj\Debug\net10.0\ref\016 Critical Hit.dll

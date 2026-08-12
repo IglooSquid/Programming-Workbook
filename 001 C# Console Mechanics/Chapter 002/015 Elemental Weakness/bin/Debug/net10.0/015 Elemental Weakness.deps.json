@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "015 Elemental Weakness/1.0.0": {
+        "runtime": {
+          "015 Elemental Weakness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "015 Elemental Weakness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

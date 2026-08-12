@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\bin\Debug\net10.0\004 Dice Roller.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\bin\Debug\net10.0\004 Dice Roller.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\bin\Debug\net10.0\004 Dice Roller.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\bin\Debug\net10.0\004 Dice Roller.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\bin\Debug\net10.0\004 Dice Roller.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\refint\004 Dice Roller.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\004 Dice Roller.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\004 Dice Roller\obj\Debug\net10.0\ref\004 Dice Roller.dll

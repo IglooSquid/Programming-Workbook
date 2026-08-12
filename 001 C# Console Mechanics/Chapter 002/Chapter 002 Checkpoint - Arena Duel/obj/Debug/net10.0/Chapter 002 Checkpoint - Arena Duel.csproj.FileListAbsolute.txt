@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\bin\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\bin\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\bin\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\bin\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\bin\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\refint\Chapter 002 Checkpoint - Arena Duel.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\Chapter 002 Checkpoint - Arena Duel.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\Chapter 002 Checkpoint - Arena Duel\obj\Debug\net10.0\ref\Chapter 002 Checkpoint - Arena Duel.dll

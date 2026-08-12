@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\bin\Debug\net10.0\007 Level Up.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\bin\Debug\net10.0\007 Level Up.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\bin\Debug\net10.0\007 Level Up.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\bin\Debug\net10.0\007 Level Up.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\bin\Debug\net10.0\007 Level Up.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\refint\007 Level Up.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\007 Level Up.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 001\007 Level Up\obj\Debug\net10.0\ref\007 Level Up.dll

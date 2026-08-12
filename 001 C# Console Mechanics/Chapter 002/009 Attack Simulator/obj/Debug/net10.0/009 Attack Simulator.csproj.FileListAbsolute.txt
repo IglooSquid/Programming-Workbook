@@ -1,0 +1,14 @@
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\bin\Debug\net10.0\009 Attack Simulator.exe
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\bin\Debug\net10.0\009 Attack Simulator.deps.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\bin\Debug\net10.0\009 Attack Simulator.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\bin\Debug\net10.0\009 Attack Simulator.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\bin\Debug\net10.0\009 Attack Simulator.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\refint\009 Attack Simulator.dll
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.pdb
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\009 Attack Simulator.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming Workbook\001 C# Console Mechanics\Chapter 002\009 Attack Simulator\obj\Debug\net10.0\ref\009 Attack Simulator.dll

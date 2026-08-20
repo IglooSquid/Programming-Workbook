@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\bin\Debug\net10.0\021 Enemy Waves.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\bin\Debug\net10.0\021 Enemy Waves.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\bin\Debug\net10.0\021 Enemy Waves.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\bin\Debug\net10.0\021 Enemy Waves.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\bin\Debug\net10.0\021 Enemy Waves.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\refint\021 Enemy Waves.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\021 Enemy Waves.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\021 Enemy Waves\obj\Debug\net10.0\ref\021 Enemy Waves.dll

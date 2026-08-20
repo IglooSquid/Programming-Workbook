@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\bin\Debug\net10.0\017 Battle Loop.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\bin\Debug\net10.0\017 Battle Loop.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\bin\Debug\net10.0\017 Battle Loop.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\bin\Debug\net10.0\017 Battle Loop.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\bin\Debug\net10.0\017 Battle Loop.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\refint\017 Battle Loop.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\017 Battle Loop.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\017 Battle Loop\obj\Debug\net10.0\ref\017 Battle Loop.dll

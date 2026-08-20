@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\bin\Debug\net10.0\008 typeof.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\bin\Debug\net10.0\008 typeof.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\bin\Debug\net10.0\008 typeof.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\bin\Debug\net10.0\008 typeof.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\bin\Debug\net10.0\008 typeof.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\refint\008 typeof.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\008 typeof.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\008 typeof\obj\Debug\net10.0\ref\008 typeof.dll

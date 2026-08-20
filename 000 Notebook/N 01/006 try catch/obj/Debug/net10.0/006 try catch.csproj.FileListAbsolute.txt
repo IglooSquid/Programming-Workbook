@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\bin\Debug\net10.0\006 try catch.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\bin\Debug\net10.0\006 try catch.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\bin\Debug\net10.0\006 try catch.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\bin\Debug\net10.0\006 try catch.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\bin\Debug\net10.0\006 try catch.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\refint\006 try catch.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\006 try catch.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\006 try catch\obj\Debug\net10.0\ref\006 try catch.dll

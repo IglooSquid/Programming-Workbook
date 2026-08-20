@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\bin\Debug\net10.0\018 Camp Rest.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\bin\Debug\net10.0\018 Camp Rest.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\bin\Debug\net10.0\018 Camp Rest.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\bin\Debug\net10.0\018 Camp Rest.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\bin\Debug\net10.0\018 Camp Rest.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\refint\018 Camp Rest.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\018 Camp Rest.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\018 Camp Rest\obj\Debug\net10.0\ref\018 Camp Rest.dll

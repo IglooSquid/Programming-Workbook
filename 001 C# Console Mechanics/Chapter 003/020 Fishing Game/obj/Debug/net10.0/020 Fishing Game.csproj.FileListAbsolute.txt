@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\bin\Debug\net10.0\020 Fishing Game.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\bin\Debug\net10.0\020 Fishing Game.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\bin\Debug\net10.0\020 Fishing Game.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\bin\Debug\net10.0\020 Fishing Game.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\bin\Debug\net10.0\020 Fishing Game.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\refint\020 Fishing Game.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\020 Fishing Game.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\020 Fishing Game\obj\Debug\net10.0\ref\020 Fishing Game.dll

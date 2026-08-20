@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\bin\Debug\net10.0\019 Mining Simulator.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\bin\Debug\net10.0\019 Mining Simulator.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\bin\Debug\net10.0\019 Mining Simulator.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\bin\Debug\net10.0\019 Mining Simulator.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\bin\Debug\net10.0\019 Mining Simulator.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\refint\019 Mining Simulator.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\019 Mining Simulator.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\019 Mining Simulator\obj\Debug\net10.0\ref\019 Mining Simulator.dll

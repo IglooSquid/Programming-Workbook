@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\bin\Debug\net10.0\003 Pass by value.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\bin\Debug\net10.0\003 Pass by value.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\bin\Debug\net10.0\003 Pass by value.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\bin\Debug\net10.0\003 Pass by value.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\bin\Debug\net10.0\003 Pass by value.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\refint\003 Pass by value.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\003 Pass by value.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\000 Notebook\N 01\003 Pass by value\obj\Debug\net10.0\ref\003 Pass by value.dll

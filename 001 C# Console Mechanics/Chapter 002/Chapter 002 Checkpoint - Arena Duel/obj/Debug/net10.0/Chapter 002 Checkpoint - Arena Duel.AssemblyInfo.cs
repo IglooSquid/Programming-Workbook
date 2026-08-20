@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chapter 002 Checkpoint - Arena Duel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ff80cc48ed9d139d1a74a4bd4fdeb79eaba881")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chapter 002 Checkpoint - Arena Duel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chapter 002 Checkpoint - Arena Duel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

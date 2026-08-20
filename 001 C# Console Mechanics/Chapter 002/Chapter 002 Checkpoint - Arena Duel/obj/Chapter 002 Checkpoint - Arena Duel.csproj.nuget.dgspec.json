@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\Documents\\Game Development\\Programming Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj": {}
+    "C:\\Users\\marku\\Documents\\Game Development\\Programming-Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\Documents\\Game Development\\Programming Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj": {
+    "C:\\Users\\marku\\Documents\\Game Development\\Programming-Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\Documents\\Game Development\\Programming Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\Documents\\Game Development\\Programming-Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj",
         "projectName": "Chapter 002 Checkpoint - Arena Duel",
-        "projectPath": "C:\\Users\\marku\\Documents\\Game Development\\Programming Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj",
+        "projectPath": "C:\\Users\\marku\\Documents\\Game Development\\Programming-Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\Chapter 002 Checkpoint - Arena Duel.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marku\\Documents\\Game Development\\Programming Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\obj\\",
+        "outputPath": "C:\\Users\\marku\\Documents\\Game Development\\Programming-Workbook\\001 C# Console Mechanics\\Chapter 002\\Chapter 002 Checkpoint - Arena Duel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config"

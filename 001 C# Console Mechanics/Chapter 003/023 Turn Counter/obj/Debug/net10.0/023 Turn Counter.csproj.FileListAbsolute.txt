@@ -1,0 +1,15 @@
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\bin\Debug\net10.0\023 Turn Counter.exe
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\bin\Debug\net10.0\023 Turn Counter.deps.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\bin\Debug\net10.0\023 Turn Counter.runtimeconfig.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\bin\Debug\net10.0\023 Turn Counter.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\bin\Debug\net10.0\023 Turn Counter.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.AssemblyInfoInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.AssemblyInfo.cs
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.csproj.CoreCompileInputs.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.sourcelink.json
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\refint\023 Turn Counter.dll
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.pdb
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\023 Turn Counter.genruntimeconfig.cache
+C:\Users\marku\Documents\Game Development\Programming-Workbook\001 C# Console Mechanics\Chapter 003\023 Turn Counter\obj\Debug\net10.0\ref\023 Turn Counter.dll
